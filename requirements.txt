@@ -21,7 +21,6 @@ h5py==3.7.0
 HeapDict==1.0.1
 hnswlib==0.7.0
 holoviews==1.15.4
-homebrew==0.2.5
 httpcore==1.0.1
 httplib2==0.22.0
 httptools==0.6.0
