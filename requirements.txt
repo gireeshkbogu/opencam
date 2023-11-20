@@ -100,7 +100,6 @@ multipledispatch==0.6.0
 multiprocess==0.70.15
 munkres==1.1.4
 mypy-extensions==1.0.0
-navigator-updater==0.3.0
 nbclassic==0.5.2
 nbclient==0.5.13
 nbconvert==6.5.4
