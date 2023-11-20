@@ -41,13 +41,10 @@ iniconfig==1.1.1
 intake==0.6.7
 intervaltree==3.1.0
 ipykernel==6.19.2
-ipython==8.17.2
-ipython-genutils==0.2.0
 isort==5.9.3
 itemadapter==0.3.0
 itemloaders==1.0.4
 itsdangerous==2.0.1
-jedi==0.19.1
 jellyfish==0.9.0
 Jinja2==3.1.2
 jinja2-time==0.2.0
