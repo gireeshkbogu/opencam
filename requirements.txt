@@ -161,7 +161,6 @@ pyct==0.5.0
 pycurl==7.45.1
 pydeps==1.12.3
 PyDispatcher==2.0.5
-pydocstyle==6.3.0
 pydub==0.25.1
 pyee==11.0.1
 pyerfa==2.0.0
@@ -186,9 +185,6 @@ PySocks==1.7.1
 pytest==7.1.2
 python-dateutil==2.8.2
 python-dotenv==1.0.0
-python-lsp-black==1.2.1
-python-lsp-jsonrpc==1.0.0
-python-lsp-server==1.7.1
 python-multipart==0.0.6
 python-slugify==5.0.2
 python-snappy==0.6.1
