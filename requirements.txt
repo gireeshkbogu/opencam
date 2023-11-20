@@ -122,7 +122,6 @@ param==1.12.3
 parsel==1.6.0
 parso==0.8.3
 partd==1.2.0
-pasteboard==0.3.3
 pathlib==1.0.1
 pathspec==0.10.3
 patsy==0.5.3
