@@ -71,8 +71,6 @@ langsmith==0.0.10
 lazy-object-proxy==1.6.0
 libarchive-c==2.9
 linkify-it-py==2.0.2
-llama-cpp-python==0.1.73
-llama-index==0.6.29
 llvmlite==0.39.1
 locket==1.0.0
 loguru==0.7.0
@@ -292,8 +290,6 @@ Tree==0.2.4
 trio==0.22.2
 trio-websocket==0.11.1
 Twisted==22.2.0
-typing_extensions==4.8.0
-typing-inspect==0.8.0
 tzdata==2023.3
 uc-micro-py==1.0.2
 ujson==5.4.0
